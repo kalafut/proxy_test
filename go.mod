@@ -1,1 +1,1 @@
-github.com/kalafut/proxy_test
+module github.com/kalafut/proxy_test
